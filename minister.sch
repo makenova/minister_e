@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:minister-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1844,5 +1845,39 @@ COL10
 Text GLabel 10300 750  1    50   Input ~ 0
 COL11
 Text GLabel 10800 750  1    50   Input ~ 0
+COL12
+Text GLabel 3550 6350 2    50   Input ~ 0
+ROW0
+Text GLabel 3550 5150 2    50   Input ~ 0
+ROW1
+Text GLabel 3550 4650 2    50   Input ~ 0
+ROW2
+Text GLabel 3550 4550 2    50   Input ~ 0
+ROW3
+Text GLabel 3550 6550 2    50   Input ~ 0
+COL0
+Text GLabel 3550 6650 2    50   Input ~ 0
+COL1
+Text GLabel 3550 6750 2    50   Input ~ 0
+COL2
+Text GLabel 3550 6850 2    50   Input ~ 0
+COL3
+Text GLabel 3550 6950 2    50   Input ~ 0
+COL4
+Text GLabel 3550 7050 2    50   Input ~ 0
+COL5
+Text GLabel 3550 5950 2    50   Input ~ 0
+COL6
+Text GLabel 3550 5750 2    50   Input ~ 0
+COL7
+Text GLabel 3550 5850 2    50   Input ~ 0
+COL8
+Text GLabel 3550 5650 2    50   Input ~ 0
+COL9
+Text GLabel 3550 5550 2    50   Input ~ 0
+COL10
+Text GLabel 3550 5450 2    50   Input ~ 0
+COL11
+Text GLabel 3550 5350 2    50   Input ~ 0
 COL12
 $EndSCHEMATC
