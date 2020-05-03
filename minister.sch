@@ -1916,14 +1916,10 @@ Wire Wire Line
 	7350 4000 5500 4000
 Wire Wire Line
 	5500 4000 5500 4150
-Wire Wire Line
-	7950 4600 7850 4600
-Text GLabel 7950 4600 2    50   Input ~ 0
+Text GLabel 7850 4600 2    50   Input ~ 0
 ESD2
-Text GLabel 6750 4600 0    50   Input ~ 0
+Text GLabel 6850 4600 0    50   Input ~ 0
 ESD1
-Wire Wire Line
-	6750 4600 6850 4600
 $Comp
 L power:GND #PWR0115
 U 1 1 5EB473BA
@@ -1958,9 +1954,6 @@ NoConn ~ 5300 4250
 NoConn ~ 5300 4850
 NoConn ~ 3550 4850
 NoConn ~ 3550 4750
-NoConn ~ 3550 4450
-NoConn ~ 3550 4350
-NoConn ~ 3550 4250
 NoConn ~ 3550 4150
 NoConn ~ 3550 5050
 NoConn ~ 3550 6050
@@ -2030,4 +2023,61 @@ F 3 "" H 6500 4350 50  0001 C CNN
 	1    6500 4350
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector:AVR-ISP-6 J1
+U 1 1 5EAF29DC
+P 5750 6300
+F 0 "J1" H 5471 6396 50  0000 R CNN
+F 1 "AVR-ISP-6" H 5471 6305 50  0000 R CNN
+F 2 "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical" V 5500 6350 50  0001 C CNN
+F 3 " ~" H 4475 5750 50  0001 C CNN
+	1    5750 6300
+	1    0    0    -1  
+$EndComp
+Text GLabel 6150 6200 2    50   Input ~ 0
+MOSI
+Text GLabel 6150 6100 2    50   Input ~ 0
+MISO
+Text GLabel 6150 6300 2    50   Input ~ 0
+SCK
+Text GLabel 6150 6400 2    50   Input ~ 0
+RST
+$Comp
+L power:+5V #PWR0116
+U 1 1 5EB30166
+P 5650 5700
+F 0 "#PWR0116" H 5650 5550 50  0001 C CNN
+F 1 "+5V" H 5665 5873 50  0000 C CNN
+F 2 "" H 5650 5700 50  0001 C CNN
+F 3 "" H 5650 5700 50  0001 C CNN
+	1    5650 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 5EB30E0E
+P 5650 6800
+F 0 "#PWR0117" H 5650 6550 50  0001 C CNN
+F 1 "GND" H 5655 6627 50  0000 C CNN
+F 2 "" H 5650 6800 50  0001 C CNN
+F 3 "" H 5650 6800 50  0001 C CNN
+	1    5650 6800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 6700 5650 6800
+Wire Wire Line
+	5650 5800 5650 5700
+Text GLabel 3550 4450 2    50   Input ~ 0
+MISO
+Text GLabel 3550 4350 2    50   Input ~ 0
+MOSI
+Text GLabel 3550 4250 2    50   Input ~ 0
+SCK
+Text GLabel 2250 4250 0    50   Input ~ 0
+RST
+Wire Wire Line
+	2250 4250 2300 4250
+Wire Wire Line
+	2300 4250 2300 4150
 $EndSCHEMATC
