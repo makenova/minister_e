@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/Users/gia/projects/personal/hardware/minister_e/minister.sch</source>
-    <date>Tuesday, April 21, 2020 at 11:26:05 PM</date>
+    <date>Sunday, May 03, 2020 at 05:08:27 PM</date>
     <tool>Eeschema (5.1.4-0-10_14)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -31,6 +31,9 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E93B8BB</tstamp>
@@ -39,6 +42,9 @@
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C28323</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E93FE4B</tstamp>
@@ -47,6 +53,9 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E9438AD</tstamp>
@@ -55,6 +64,9 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E947083</tstamp>
@@ -63,6 +75,9 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E947397</tstamp>
@@ -71,6 +86,9 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C307523</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E9478BC</tstamp>
@@ -79,6 +97,9 @@
       <value>16MHz</value>
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C89379</field>
+      </fields>
       <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E950ECD</tstamp>
@@ -87,6 +108,9 @@
       <value>22pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1804</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E956A1E</tstamp>
@@ -95,6 +119,9 @@
       <value>SW_Push</value>
       <footprint>random-keyboard-parts:SKQG-1155865</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C318884</field>
+      </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E95E409</tstamp>
@@ -103,6 +130,9 @@
       <value>10k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E96128A</tstamp>
@@ -118,6 +148,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA0C2EF</tstamp>
@@ -126,6 +159,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA0C2FA</tstamp>
@@ -148,6 +184,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA0C319</tstamp>
@@ -156,6 +195,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA0C324</tstamp>
@@ -178,6 +220,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA14979</tstamp>
@@ -186,6 +231,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA14984</tstamp>
@@ -201,6 +249,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA149AE</tstamp>
@@ -223,6 +274,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA149CD</tstamp>
@@ -231,6 +285,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA149D8</tstamp>
@@ -253,6 +310,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA149F7</tstamp>
@@ -261,6 +321,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA14A02</tstamp>
@@ -283,6 +346,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA2761F</tstamp>
@@ -291,6 +357,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA2762A</tstamp>
@@ -306,6 +375,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA27654</tstamp>
@@ -328,6 +400,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA27673</tstamp>
@@ -336,6 +411,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA2767E</tstamp>
@@ -351,6 +429,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA276A8</tstamp>
@@ -366,6 +447,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA276D2</tstamp>
@@ -388,6 +472,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA276F1</tstamp>
@@ -396,6 +483,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA276FC</tstamp>
@@ -418,6 +508,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA2771B</tstamp>
@@ -426,6 +519,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA27726</tstamp>
@@ -448,6 +544,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA27745</tstamp>
@@ -456,6 +555,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA27750</tstamp>
@@ -471,6 +573,9 @@
       <value>22pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1804</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E955E19</tstamp>
@@ -486,6 +591,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB111AA</tstamp>
@@ -494,6 +602,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB1119F</tstamp>
@@ -516,6 +627,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11180</tstamp>
@@ -524,6 +638,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11175</tstamp>
@@ -546,6 +663,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11156</tstamp>
@@ -554,6 +674,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB1114B</tstamp>
@@ -576,6 +699,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB1112C</tstamp>
@@ -584,6 +710,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11121</tstamp>
@@ -606,6 +735,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11102</tstamp>
@@ -621,6 +753,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB110D8</tstamp>
@@ -629,6 +764,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB110CD</tstamp>
@@ -651,6 +789,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB110AE</tstamp>
@@ -659,6 +800,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB110A3</tstamp>
@@ -681,6 +825,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11084</tstamp>
@@ -689,6 +836,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11079</tstamp>
@@ -711,6 +861,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB1105A</tstamp>
@@ -719,6 +872,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB1104F</tstamp>
@@ -741,6 +897,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11030</tstamp>
@@ -749,6 +908,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB11025</tstamp>
@@ -771,6 +933,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA06A20</tstamp>
@@ -786,6 +951,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E98B489</tstamp>
@@ -794,6 +962,9 @@
       <value>D_Small</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E997EF1</tstamp>
@@ -816,6 +987,9 @@
       <value>5.1k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA2FA78</tstamp>
@@ -824,6 +998,9 @@
       <value>22</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA48104</tstamp>
@@ -832,6 +1009,9 @@
       <value>22</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA4870F</tstamp>
@@ -840,6 +1020,9 @@
       <value>PRTR5V0U2X</value>
       <footprint>Package_TO_SOT_SMD:SOT-143_Handsoldering</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C78442</field>
+      </fields>
       <libsource lib="Power_Protection" part="PRTR5V0U2X" description="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-363"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EB379AF</tstamp>
@@ -848,6 +1031,9 @@
       <value>Polyfuse_Small</value>
       <footprint>Fuse:Fuse_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C151162</field>
+      </fields>
       <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA02C54</tstamp>
@@ -856,12 +1042,43 @@
       <value>5.1k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EA76608</tstamp>
     </comp>
+    <comp ref="J1">
+      <value>AVR-ISP-6</value>
+      <footprint>Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="AVR-ISP-6" description="Atmel 6-pin ISP connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAF29DC</tstamp>
+    </comp>
   </components>
   <libparts>
+    <libpart lib="Connector" part="AVR-ISP-6">
+      <description>Atmel 6-pin ISP connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>IDC?Header*2x03*</fp>
+        <fp>Pin?Header*2x03*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AVR-ISP-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MISO" type="passive"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="SCK" type="passive"/>
+        <pin num="4" name="MOSI" type="passive"/>
+        <pin num="5" name="~RST" type="passive"/>
+        <pin num="6" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
     <libpart lib="Device" part="C_Small">
       <description>Unpolarized capacitor, small symbol</description>
       <docs>~</docs>
@@ -1069,6 +1286,9 @@
     </libpart>
   </libparts>
   <libraries>
+    <library logical="Connector">
+      <uri>/Library/Application Support/kicad/library/Connector.lib</uri>
+    </library>
     <library logical="Device">
       <uri>/Library/Application Support/kicad/library/Device.lib</uri>
     </library>
@@ -1089,460 +1309,466 @@
     </library>
   </libraries>
   <nets>
-    <net code="1" name="Net-(U1-Pad10)">
-      <node ref="U1" pin="10"/>
-    </net>
-    <net code="2" name="Net-(U1-Pad11)">
-      <node ref="U1" pin="11"/>
-    </net>
-    <net code="3" name="Net-(U1-Pad12)">
+    <net code="1" name="Net-(U1-Pad12)">
       <node ref="U1" pin="12"/>
     </net>
-    <net code="4" name="Net-(R1-Pad2)">
-      <node ref="SW1" pin="2"/>
-      <node ref="U1" pin="13"/>
-      <node ref="R1" pin="2"/>
-    </net>
-    <net code="5" name="+5V">
-      <node ref="U1" pin="2"/>
-      <node ref="U1" pin="24"/>
+    <net code="2" name="+5V">
       <node ref="C4" pin="1"/>
-      <node ref="C7" pin="1"/>
-      <node ref="C6" pin="1"/>
-      <node ref="U1" pin="34"/>
-      <node ref="U1" pin="44"/>
-      <node ref="F1" pin="1"/>
-      <node ref="U1" pin="7"/>
-      <node ref="C5" pin="1"/>
       <node ref="U1" pin="14"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="F1" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="U1" pin="24"/>
+      <node ref="U1" pin="34"/>
+      <node ref="J1" pin="2"/>
+      <node ref="U1" pin="44"/>
       <node ref="R1" pin="1"/>
+      <node ref="U1" pin="7"/>
     </net>
-    <net code="6" name="Net-(U1-Pad27)">
+    <net code="3" name="Net-(U1-Pad27)">
       <node ref="U1" pin="27"/>
     </net>
-    <net code="7" name="D-">
+    <net code="4" name="D-">
       <node ref="R6" pin="1"/>
       <node ref="U1" pin="3"/>
     </net>
-    <net code="8" name="Net-(U1-Pad30)">
+    <net code="5" name="Net-(U1-Pad30)">
       <node ref="U1" pin="30"/>
     </net>
-    <net code="9" name="Net-(U1-Pad31)">
+    <net code="6" name="Net-(U1-Pad31)">
       <node ref="U1" pin="31"/>
     </net>
-    <net code="10" name="Net-(U1-Pad42)">
+    <net code="7" name="Net-(U1-Pad42)">
       <node ref="U1" pin="42"/>
     </net>
-    <net code="11" name="Net-(U1-Pad8)">
+    <net code="8" name="Net-(U1-Pad8)">
       <node ref="U1" pin="8"/>
     </net>
-    <net code="12" name="Net-(U1-Pad9)">
-      <node ref="U1" pin="9"/>
-    </net>
-    <net code="13" name="GND">
-      <node ref="C7" pin="2"/>
-      <node ref="C6" pin="2"/>
-      <node ref="C5" pin="2"/>
+    <net code="9" name="GND">
       <node ref="C4" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C6" pin="2"/>
       <node ref="C3" pin="2"/>
+      <node ref="C7" pin="2"/>
       <node ref="U1" pin="15"/>
-      <node ref="R5" pin="1"/>
+      <node ref="R4" pin="1"/>
       <node ref="Y1" pin="2"/>
       <node ref="Y1" pin="4"/>
       <node ref="C2" pin="2"/>
-      <node ref="D47" pin="1"/>
-      <node ref="SW1" pin="1"/>
-      <node ref="R4" pin="1"/>
-      <node ref="U1" pin="5"/>
-      <node ref="USB1" pin="13"/>
-      <node ref="USB1" pin="12"/>
-      <node ref="USB1" pin="1"/>
-      <node ref="U1" pin="43"/>
       <node ref="C1" pin="2"/>
+      <node ref="D47" pin="1"/>
       <node ref="U1" pin="23"/>
-      <node ref="R8" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="J1" pin="6"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U1" pin="43"/>
+      <node ref="R5" pin="1"/>
+      <node ref="USB1" pin="1"/>
+      <node ref="USB1" pin="12"/>
+      <node ref="USB1" pin="13"/>
       <node ref="U1" pin="35"/>
     </net>
-    <net code="14" name="Net-(R4-Pad2)">
-      <node ref="U1" pin="33"/>
+    <net code="10" name="Net-(R4-Pad2)">
       <node ref="R4" pin="2"/>
+      <node ref="U1" pin="33"/>
     </net>
-    <net code="15" name="Net-(C3-Pad1)">
+    <net code="11" name="Net-(C3-Pad1)">
       <node ref="C3" pin="1"/>
       <node ref="U1" pin="6"/>
     </net>
-    <net code="16" name="Net-(C1-Pad1)">
-      <node ref="C1" pin="1"/>
+    <net code="12" name="Net-(C1-Pad1)">
       <node ref="Y1" pin="1"/>
+      <node ref="C1" pin="1"/>
       <node ref="U1" pin="17"/>
     </net>
-    <net code="17" name="Net-(C2-Pad1)">
+    <net code="13" name="Net-(C2-Pad1)">
       <node ref="C2" pin="1"/>
       <node ref="Y1" pin="3"/>
       <node ref="U1" pin="16"/>
     </net>
-    <net code="18" name="D+">
-      <node ref="R7" pin="1"/>
+    <net code="14" name="D+">
       <node ref="U1" pin="4"/>
+      <node ref="R7" pin="1"/>
     </net>
-    <net code="19" name="Net-(D20-Pad2)">
-      <node ref="D20" pin="2"/>
+    <net code="15" name="Net-(D20-Pad2)">
       <node ref="MX20" pin="2"/>
+      <node ref="D20" pin="2"/>
     </net>
-    <net code="20" name="Net-(D7-Pad2)">
-      <node ref="D7" pin="2"/>
+    <net code="16" name="Net-(D7-Pad2)">
       <node ref="MX7" pin="2"/>
+      <node ref="D7" pin="2"/>
     </net>
-    <net code="21" name="Net-(D43-Pad2)">
-      <node ref="MX43" pin="2"/>
+    <net code="17" name="Net-(D43-Pad2)">
       <node ref="D43" pin="2"/>
+      <node ref="MX43" pin="2"/>
     </net>
-    <net code="22" name="Net-(D32-Pad2)">
+    <net code="18" name="Net-(D32-Pad2)">
       <node ref="MX32" pin="2"/>
       <node ref="D32" pin="2"/>
     </net>
-    <net code="23" name="COL6">
-      <node ref="MX43" pin="1"/>
-      <node ref="MX7" pin="1"/>
-      <node ref="MX32" pin="1"/>
-      <node ref="MX20" pin="1"/>
+    <net code="19" name="COL6">
       <node ref="U1" pin="26"/>
+      <node ref="MX7" pin="1"/>
+      <node ref="MX20" pin="1"/>
+      <node ref="MX43" pin="1"/>
+      <node ref="MX32" pin="1"/>
     </net>
-    <net code="24" name="Net-(D21-Pad2)">
-      <node ref="MX21" pin="2"/>
+    <net code="20" name="Net-(D21-Pad2)">
       <node ref="D21" pin="2"/>
+      <node ref="MX21" pin="2"/>
     </net>
-    <net code="25" name="Net-(D8-Pad2)">
+    <net code="21" name="Net-(D8-Pad2)">
       <node ref="MX8" pin="2"/>
       <node ref="D8" pin="2"/>
     </net>
-    <net code="26" name="Net-(D33-Pad2)">
+    <net code="22" name="Net-(D33-Pad2)">
       <node ref="MX33" pin="2"/>
       <node ref="D33" pin="2"/>
     </net>
-    <net code="27" name="COL7">
-      <node ref="MX21" pin="1"/>
+    <net code="23" name="COL7">
       <node ref="U1" pin="25"/>
       <node ref="MX33" pin="1"/>
       <node ref="MX8" pin="1"/>
+      <node ref="MX21" pin="1"/>
     </net>
-    <net code="28" name="Net-(D22-Pad2)">
+    <net code="24" name="Net-(D22-Pad2)">
       <node ref="D22" pin="2"/>
       <node ref="MX22" pin="2"/>
     </net>
-    <net code="29" name="Net-(D9-Pad2)">
-      <node ref="D9" pin="2"/>
+    <net code="25" name="Net-(D9-Pad2)">
       <node ref="MX9" pin="2"/>
+      <node ref="D9" pin="2"/>
     </net>
-    <net code="30" name="Net-(D44-Pad2)">
-      <node ref="MX44" pin="2"/>
+    <net code="26" name="Net-(D44-Pad2)">
       <node ref="D44" pin="2"/>
+      <node ref="MX44" pin="2"/>
     </net>
-    <net code="31" name="Net-(D34-Pad2)">
-      <node ref="MX34" pin="2"/>
+    <net code="27" name="Net-(D34-Pad2)">
       <node ref="D34" pin="2"/>
+      <node ref="MX34" pin="2"/>
     </net>
-    <net code="32" name="COL8">
+    <net code="28" name="COL8">
+      <node ref="MX34" pin="1"/>
+      <node ref="MX22" pin="1"/>
       <node ref="U1" pin="22"/>
       <node ref="MX44" pin="1"/>
-      <node ref="MX22" pin="1"/>
       <node ref="MX9" pin="1"/>
-      <node ref="MX34" pin="1"/>
     </net>
-    <net code="33" name="Net-(D23-Pad2)">
+    <net code="29" name="Net-(D23-Pad2)">
       <node ref="D23" pin="2"/>
       <node ref="MX23" pin="2"/>
     </net>
-    <net code="34" name="Net-(D10-Pad2)">
-      <node ref="D10" pin="2"/>
+    <net code="30" name="Net-(D10-Pad2)">
       <node ref="MX10" pin="2"/>
+      <node ref="D10" pin="2"/>
     </net>
-    <net code="35" name="Net-(D35-Pad2)">
+    <net code="31" name="Net-(D35-Pad2)">
       <node ref="D35" pin="2"/>
       <node ref="MX35" pin="2"/>
     </net>
-    <net code="36" name="COL9">
-      <node ref="MX23" pin="1"/>
-      <node ref="MX10" pin="1"/>
-      <node ref="MX35" pin="1"/>
+    <net code="32" name="COL9">
       <node ref="U1" pin="21"/>
+      <node ref="MX35" pin="1"/>
+      <node ref="MX10" pin="1"/>
+      <node ref="MX23" pin="1"/>
     </net>
-    <net code="37" name="Net-(D24-Pad2)">
+    <net code="33" name="Net-(D24-Pad2)">
       <node ref="MX24" pin="2"/>
       <node ref="D24" pin="2"/>
     </net>
-    <net code="38" name="Net-(D11-Pad2)">
-      <node ref="D11" pin="2"/>
+    <net code="34" name="Net-(D11-Pad2)">
       <node ref="MX11" pin="2"/>
+      <node ref="D11" pin="2"/>
     </net>
-    <net code="39" name="Net-(D36-Pad2)">
+    <net code="35" name="Net-(D36-Pad2)">
       <node ref="D36" pin="2"/>
       <node ref="MX36" pin="2"/>
     </net>
-    <net code="40" name="COL10">
-      <node ref="MX36" pin="1"/>
-      <node ref="MX11" pin="1"/>
+    <net code="36" name="COL10">
       <node ref="MX24" pin="1"/>
       <node ref="U1" pin="20"/>
+      <node ref="MX11" pin="1"/>
+      <node ref="MX36" pin="1"/>
     </net>
-    <net code="41" name="Net-(D12-Pad2)">
-      <node ref="MX12" pin="2"/>
+    <net code="37" name="Net-(D12-Pad2)">
       <node ref="D12" pin="2"/>
+      <node ref="MX12" pin="2"/>
     </net>
-    <net code="42" name="Net-(D45-Pad2)">
-      <node ref="D45" pin="2"/>
+    <net code="38" name="Net-(D45-Pad2)">
       <node ref="MX45" pin="2"/>
+      <node ref="D45" pin="2"/>
     </net>
-    <net code="43" name="Net-(D37-Pad2)">
+    <net code="39" name="Net-(D37-Pad2)">
       <node ref="D37" pin="2"/>
       <node ref="MX37" pin="2"/>
     </net>
-    <net code="44" name="COL11">
-      <node ref="MX45" pin="1"/>
-      <node ref="MX12" pin="1"/>
+    <net code="40" name="COL11">
       <node ref="U1" pin="19"/>
+      <node ref="MX12" pin="1"/>
+      <node ref="MX45" pin="1"/>
       <node ref="MX37" pin="1"/>
     </net>
-    <net code="45" name="Net-(D25-Pad2)">
-      <node ref="MX25" pin="2"/>
+    <net code="41" name="Net-(D25-Pad2)">
       <node ref="D25" pin="2"/>
+      <node ref="MX25" pin="2"/>
     </net>
-    <net code="46" name="Net-(D13-Pad2)">
-      <node ref="D13" pin="2"/>
+    <net code="42" name="Net-(D13-Pad2)">
       <node ref="MX13" pin="2"/>
+      <node ref="D13" pin="2"/>
     </net>
-    <net code="47" name="Net-(D46-Pad2)">
+    <net code="43" name="Net-(D46-Pad2)">
       <node ref="D46" pin="2"/>
       <node ref="MX46" pin="2"/>
     </net>
-    <net code="48" name="Net-(D38-Pad2)">
+    <net code="44" name="Net-(D38-Pad2)">
       <node ref="MX38" pin="2"/>
       <node ref="D38" pin="2"/>
     </net>
-    <net code="49" name="COL12">
+    <net code="45" name="COL12">
       <node ref="MX38" pin="1"/>
-      <node ref="U1" pin="18"/>
       <node ref="MX25" pin="1"/>
-      <node ref="MX13" pin="1"/>
       <node ref="MX46" pin="1"/>
+      <node ref="U1" pin="18"/>
+      <node ref="MX13" pin="1"/>
     </net>
-    <net code="50" name="Net-(D30-Pad2)">
+    <net code="46" name="Net-(D30-Pad2)">
       <node ref="D30" pin="2"/>
       <node ref="MX30" pin="2"/>
     </net>
-    <net code="51" name="Net-(D42-Pad2)">
-      <node ref="D42" pin="2"/>
+    <net code="47" name="Net-(D42-Pad2)">
       <node ref="MX42" pin="2"/>
+      <node ref="D42" pin="2"/>
     </net>
-    <net code="52" name="Net-(D5-Pad2)">
+    <net code="48" name="Net-(D5-Pad2)">
       <node ref="MX5" pin="2"/>
       <node ref="D5" pin="2"/>
     </net>
-    <net code="53" name="COL4">
+    <net code="49" name="COL4">
+      <node ref="MX5" pin="1"/>
       <node ref="U1" pin="37"/>
+      <node ref="MX18" pin="1"/>
       <node ref="MX42" pin="1"/>
       <node ref="MX30" pin="1"/>
-      <node ref="MX5" pin="1"/>
-      <node ref="MX18" pin="1"/>
     </net>
-    <net code="54" name="Net-(D18-Pad2)">
-      <node ref="D18" pin="2"/>
+    <net code="50" name="Net-(D18-Pad2)">
       <node ref="MX18" pin="2"/>
+      <node ref="D18" pin="2"/>
     </net>
-    <net code="55" name="Net-(D29-Pad2)">
+    <net code="51" name="Net-(D29-Pad2)">
       <node ref="D29" pin="2"/>
       <node ref="MX29" pin="2"/>
     </net>
-    <net code="56" name="Net-(D41-Pad2)">
+    <net code="52" name="Net-(D41-Pad2)">
       <node ref="D41" pin="2"/>
       <node ref="MX41" pin="2"/>
     </net>
-    <net code="57" name="Net-(D4-Pad2)">
-      <node ref="MX4" pin="2"/>
+    <net code="53" name="Net-(D4-Pad2)">
       <node ref="D4" pin="2"/>
+      <node ref="MX4" pin="2"/>
     </net>
-    <net code="58" name="COL3">
-      <node ref="MX29" pin="1"/>
+    <net code="54" name="COL3">
       <node ref="MX41" pin="1"/>
+      <node ref="MX29" pin="1"/>
       <node ref="MX4" pin="1"/>
       <node ref="MX17" pin="1"/>
       <node ref="U1" pin="38"/>
     </net>
-    <net code="59" name="Net-(D17-Pad2)">
-      <node ref="D17" pin="2"/>
+    <net code="55" name="Net-(D17-Pad2)">
       <node ref="MX17" pin="2"/>
+      <node ref="D17" pin="2"/>
     </net>
-    <net code="60" name="Net-(D28-Pad2)">
-      <node ref="MX28" pin="2"/>
+    <net code="56" name="Net-(D28-Pad2)">
       <node ref="D28" pin="2"/>
+      <node ref="MX28" pin="2"/>
     </net>
-    <net code="61" name="Net-(D3-Pad2)">
+    <net code="57" name="Net-(D3-Pad2)">
       <node ref="D3" pin="2"/>
       <node ref="MX3" pin="2"/>
     </net>
-    <net code="62" name="COL2">
-      <node ref="MX28" pin="1"/>
+    <net code="58" name="COL2">
       <node ref="MX16" pin="1"/>
+      <node ref="MX28" pin="1"/>
       <node ref="MX3" pin="1"/>
       <node ref="U1" pin="39"/>
     </net>
-    <net code="63" name="Net-(D16-Pad2)">
+    <net code="59" name="Net-(D16-Pad2)">
       <node ref="D16" pin="2"/>
       <node ref="MX16" pin="2"/>
     </net>
-    <net code="64" name="Net-(D27-Pad2)">
+    <net code="60" name="Net-(D27-Pad2)">
       <node ref="MX27" pin="2"/>
       <node ref="D27" pin="2"/>
     </net>
-    <net code="65" name="Net-(D40-Pad2)">
+    <net code="61" name="Net-(D40-Pad2)">
       <node ref="D40" pin="2"/>
       <node ref="MX40" pin="2"/>
     </net>
-    <net code="66" name="Net-(D2-Pad2)">
+    <net code="62" name="Net-(D2-Pad2)">
       <node ref="D2" pin="2"/>
       <node ref="MX2" pin="2"/>
     </net>
-    <net code="67" name="COL1">
-      <node ref="U1" pin="40"/>
-      <node ref="MX2" pin="1"/>
+    <net code="63" name="COL1">
+      <node ref="MX27" pin="1"/>
       <node ref="MX40" pin="1"/>
       <node ref="MX15" pin="1"/>
-      <node ref="MX27" pin="1"/>
+      <node ref="U1" pin="40"/>
+      <node ref="MX2" pin="1"/>
     </net>
-    <net code="68" name="Net-(D15-Pad2)">
-      <node ref="D15" pin="2"/>
+    <net code="64" name="Net-(D15-Pad2)">
       <node ref="MX15" pin="2"/>
+      <node ref="D15" pin="2"/>
     </net>
-    <net code="69" name="Net-(D26-Pad2)">
+    <net code="65" name="Net-(D26-Pad2)">
       <node ref="MX26" pin="2"/>
       <node ref="D26" pin="2"/>
     </net>
-    <net code="70" name="ROW3">
-      <node ref="D41" pin="1"/>
-      <node ref="D46" pin="1"/>
+    <net code="66" name="ROW3">
       <node ref="D39" pin="1"/>
-      <node ref="D40" pin="1"/>
-      <node ref="D45" pin="1"/>
       <node ref="U1" pin="28"/>
-      <node ref="D44" pin="1"/>
       <node ref="D43" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D46" pin="1"/>
       <node ref="D42" pin="1"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D41" pin="1"/>
     </net>
-    <net code="71" name="Net-(D39-Pad2)">
+    <net code="67" name="Net-(D39-Pad2)">
       <node ref="D39" pin="2"/>
       <node ref="MX39" pin="2"/>
     </net>
-    <net code="72" name="Net-(D1-Pad2)">
-      <node ref="D1" pin="2"/>
+    <net code="68" name="Net-(D1-Pad2)">
       <node ref="MX1" pin="2"/>
+      <node ref="D1" pin="2"/>
     </net>
-    <net code="73" name="COL0">
-      <node ref="MX14" pin="1"/>
-      <node ref="MX1" pin="1"/>
-      <node ref="MX39" pin="1"/>
+    <net code="69" name="COL0">
       <node ref="MX26" pin="1"/>
+      <node ref="MX39" pin="1"/>
+      <node ref="MX1" pin="1"/>
       <node ref="U1" pin="41"/>
+      <node ref="MX14" pin="1"/>
     </net>
-    <net code="74" name="Net-(D14-Pad2)">
-      <node ref="MX14" pin="2"/>
+    <net code="70" name="Net-(D14-Pad2)">
       <node ref="D14" pin="2"/>
+      <node ref="MX14" pin="2"/>
     </net>
-    <net code="75" name="ROW2">
-      <node ref="U1" pin="29"/>
-      <node ref="D32" pin="1"/>
-      <node ref="D33" pin="1"/>
-      <node ref="D34" pin="1"/>
-      <node ref="D35" pin="1"/>
-      <node ref="D36" pin="1"/>
-      <node ref="D37" pin="1"/>
-      <node ref="D38" pin="1"/>
-      <node ref="D30" pin="1"/>
+    <net code="71" name="ROW2">
       <node ref="D29" pin="1"/>
       <node ref="D28" pin="1"/>
       <node ref="D27" pin="1"/>
-      <node ref="D26" pin="1"/>
       <node ref="D31" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="U1" pin="29"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D37" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D26" pin="1"/>
     </net>
-    <net code="76" name="Net-(D31-Pad2)">
-      <node ref="D31" pin="2"/>
+    <net code="72" name="Net-(D31-Pad2)">
       <node ref="MX31" pin="2"/>
+      <node ref="D31" pin="2"/>
     </net>
-    <net code="77" name="ROW0">
+    <net code="73" name="ROW0">
+      <node ref="U1" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D7" pin="1"/>
       <node ref="D3" pin="1"/>
       <node ref="D4" pin="1"/>
       <node ref="D5" pin="1"/>
-      <node ref="D7" pin="1"/>
-      <node ref="D1" pin="1"/>
       <node ref="D13" pin="1"/>
-      <node ref="D8" pin="1"/>
       <node ref="D12" pin="1"/>
       <node ref="D11" pin="1"/>
       <node ref="D10" pin="1"/>
-      <node ref="U1" pin="1"/>
-      <node ref="D6" pin="1"/>
-      <node ref="D2" pin="1"/>
       <node ref="D9" pin="1"/>
+      <node ref="D8" pin="1"/>
     </net>
-    <net code="78" name="Net-(D6-Pad2)">
-      <node ref="MX6" pin="2"/>
+    <net code="74" name="Net-(D6-Pad2)">
       <node ref="D6" pin="2"/>
+      <node ref="MX6" pin="2"/>
     </net>
-    <net code="79" name="ROW1">
+    <net code="75" name="ROW1">
+      <node ref="D22" pin="1"/>
       <node ref="D23" pin="1"/>
       <node ref="D24" pin="1"/>
-      <node ref="D22" pin="1"/>
-      <node ref="D19" pin="1"/>
-      <node ref="D25" pin="1"/>
       <node ref="D21" pin="1"/>
-      <node ref="D14" pin="1"/>
-      <node ref="D20" pin="1"/>
-      <node ref="D15" pin="1"/>
+      <node ref="D25" pin="1"/>
       <node ref="D18" pin="1"/>
-      <node ref="U1" pin="32"/>
       <node ref="D17" pin="1"/>
       <node ref="D16" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="U1" pin="32"/>
+      <node ref="D14" pin="1"/>
     </net>
-    <net code="80" name="COL5">
-      <node ref="MX31" pin="1"/>
-      <node ref="MX19" pin="1"/>
+    <net code="76" name="COL5">
       <node ref="MX6" pin="1"/>
+      <node ref="MX31" pin="1"/>
       <node ref="U1" pin="36"/>
+      <node ref="MX19" pin="1"/>
     </net>
-    <net code="81" name="Net-(D19-Pad2)">
-      <node ref="D19" pin="2"/>
+    <net code="77" name="Net-(D19-Pad2)">
       <node ref="MX19" pin="2"/>
+      <node ref="D19" pin="2"/>
     </net>
-    <net code="82" name="Net-(USB1-Pad3)">
+    <net code="78" name="Net-(USB1-Pad3)">
       <node ref="USB1" pin="3"/>
     </net>
-    <net code="83" name="Net-(USB1-Pad9)">
+    <net code="79" name="Net-(USB1-Pad9)">
       <node ref="USB1" pin="9"/>
     </net>
-    <net code="84" name="Net-(R5-Pad2)">
-      <node ref="R5" pin="2"/>
+    <net code="80" name="Net-(R5-Pad2)">
       <node ref="USB1" pin="4"/>
+      <node ref="R5" pin="2"/>
     </net>
-    <net code="85" name="ESD1">
+    <net code="81" name="ESD1">
       <node ref="D47" pin="2"/>
       <node ref="R6" pin="2"/>
       <node ref="USB1" pin="5"/>
       <node ref="USB1" pin="7"/>
     </net>
-    <net code="86" name="ESD2">
+    <net code="82" name="ESD2">
       <node ref="USB1" pin="8"/>
       <node ref="USB1" pin="6"/>
       <node ref="R7" pin="2"/>
       <node ref="D47" pin="3"/>
     </net>
-    <net code="87" name="Net-(D47-Pad4)">
+    <net code="83" name="Net-(D47-Pad4)">
       <node ref="USB1" pin="11"/>
       <node ref="F1" pin="2"/>
       <node ref="USB1" pin="2"/>
       <node ref="D47" pin="4"/>
     </net>
-    <net code="88" name="Net-(R8-Pad2)">
-      <node ref="USB1" pin="10"/>
+    <net code="84" name="Net-(R8-Pad2)">
       <node ref="R8" pin="2"/>
+      <node ref="USB1" pin="10"/>
+    </net>
+    <net code="85" name="MISO">
+      <node ref="J1" pin="1"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="86" name="SCK">
+      <node ref="J1" pin="3"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="87" name="MOSI">
+      <node ref="J1" pin="4"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="88" name="RST">
+      <node ref="R1" pin="2"/>
+      <node ref="J1" pin="5"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="U1" pin="13"/>
     </net>
   </nets>
 </export>
