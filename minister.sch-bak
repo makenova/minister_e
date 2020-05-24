@@ -22,6 +22,7 @@ F 0 "U1" H 2900 4400 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 2900 4550 50  0000 C CNN
 F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 2950 5650 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2950 5650 50  0001 C CNN
+F 4 "C44854" H 2950 5650 50  0001 C CNN "LCSC"
 	1    2950 5650
 	1    0    0    -1  
 $EndComp
